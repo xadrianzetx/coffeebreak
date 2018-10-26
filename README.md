@@ -1,7 +1,7 @@
 # coffeebreak
 Fun with XOR network
 
-It's kinda fun when the goal is to overfit the network.
+It's kinda funny when the goal is to overfit the network.
 
 ## Decision boundaries
 
